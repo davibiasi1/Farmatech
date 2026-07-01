@@ -25,5 +25,3 @@ Este projeto não é apenas um sistema funcional, mas uma demonstração de boas
 * **Banco de Dados:** MySQL
 * **Bibliotecas:** `mysql-connector-python`, `datetime`
 
-## 👨‍💻 Equipe Desenvolvedora
-* Davi e Equipe - *[Seu link do LinkedIn aqui]*
