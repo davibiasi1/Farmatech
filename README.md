@@ -25,3 +25,14 @@ Este projeto não é apenas um sistema funcional, mas uma demonstração de boas
 * **Banco de Dados:** MySQL
 * **Bibliotecas:** `mysql-connector-python`, `datetime`
 
+---
+
+## 👥 Desenvolvedores - Grupo 5
+
+Este projeto foi desenvolvido pelos seguintes responsáveis:
+
+* Davi Dória Biasi
+* Maria Eduarda Vieira
+* Christopher Magalhães
+* Leticia Santos Joffre
+* Jessica Borges
